@@ -15,5 +15,5 @@
             # Use this username's contribution graph  
             user_name: stfDeveloper
             # Text on contribution graph 
-            text: StfDeveloper 
+            text: StfDev
        - uses: jasineri/simple-push-action@v1
